@@ -85,6 +85,7 @@ The project utilizes the following repository:
 - **GitHub Repository:** [deeplearning-models](https://github.com/rasbt/deeplearning-models)
   This repository was used for PyTorch-based implementation, containing utility functions, data loading, and model training scripts.
 [Click here to view the code file](https://github.com/ManjuDGRT/AI_2023_Final/blob/main/Training_MobileNetV3_Adam_optimiser%20(1).ipynb)
+[click here to view the helper files used](https://github.com/ManjuDGRT/AI_2023_Final/blob/main/Helper_files_used.ipynb?short_path=2a067fb)
 ### Steps Involved in Training MobileNetV3 with Adam Optimizer
 1. **Cell 1: Cloning GitHub Repo and Importing Libraries**  
    Cloning a GitHub repository and importing necessary libraries and modules for training MobileNetV3 using PyTorch.
@@ -120,6 +121,7 @@ The project utilizes the following repository:
 - **GitHub Repository:** [deeplearning-models](https://github.com/rasbt/deeplearning-models)
   This repository was used for PyTorch-based implementation, containing utility functions, data loading, and model training scripts.
 [Click here to view the code file](https://github.com/ManjuDGRT/AI_2023_Final/blob/main/Training_MobileNetV3_SGD_optimiser_ipynb%20(2).ipynb)
+[click here to view the helper files used](https://github.com/ManjuDGRT/AI_2023_Final/blob/main/Helper_files_used.ipynb?short_path=2a067fb)
 ### Steps Involved in Training MobileNetV3 with SGD Optimizer
 1. **Cell 1: Cloning GitHub Repo and Importing Libraries**  
    Cloning a GitHub repository and importing necessary libraries and modules for training MobileNetV3 using PyTorch.
