@@ -8,13 +8,13 @@ Manju Shree Kumaravel , final project
 - [Libraries Used](#libraries-used)
 - [MobileNetV3 and MobileNetV2 Implementation Using Python and TensorFlow](#mobilenetv3-and-mobilenetv2-implementation-using-python-and-tensorflow)
   - [Steps Involved](#steps-involved-tensorflow)
-- [Training MobileNetV3 Using PyTorch](#training-mobilenetv3-using-pytorch)
+- [Training MobileNetV3 Using PyTorch with Adam Optimizer](#training-mobilenetv3-using-pytorch)
   - [Repository Used](#repository-used-pytorch)
   - [Steps Involved](#steps-involved-pytorch)
 - [Image Classification Using the Trained MobileNetV3 Model](#image-classification-using-the-trained-mobilenetv3-model)
 - [Training MobileNetV3 Using PyTorch with SGD Optimizer](#training-mobilenetv3-using-pytorch-with-sgd-optimizer)
-  - [Repository Used](#repository-used-sgd)
-  - [Steps Involved](#steps-involved-sgd)
+  - [Repository Used](#repository-used-pytorch)
+  - [Steps Involved](#steps-involved-pytorch)
 
 
 ## Introduction
@@ -78,7 +78,7 @@ The following libraries were used in this project:
 
 ---
 
-## Training MobileNetV3 Using PyTorch
+## Training MobileNetV3 Using PyTorch with Adam Optimizer
 
 ### Repository Used (PyTorch)
 The project utilizes the following repository:
@@ -116,7 +116,7 @@ A utility function `predict_image_label` is provided to predict labels for new i
 
 ## Training MobileNetV3 Using PyTorch with SGD Optimizer
 
-### Repository Used (SGD)
+### Repository Used (PyTorch)
 The project utilizes the following repository:
 - **GitHub Repository:** [deeplearning-models](https://github.com/rasbt/deeplearning-models)
   This repository was used for PyTorch-based implementation, containing utility functions, data loading, and model training scripts.
