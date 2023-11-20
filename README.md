@@ -21,7 +21,7 @@ Manju Shree Kumaravel , final project
 This project aims to compare the performances of MobileNetV2 and MobileNetV3 architectures using the CIFAR-10 dataset. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, making it a suitable benchmark for evaluating different neural network architectures.
 
 **Dataset URL:** [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
-[Click here to view the code file](https://github.com/ManjuDGRT/AI_Final/blob/main/MobileNetV3_and_MobileNetV2_Implementation_Using_Python_and_TensorFlow.ipynb)
+[Click here to view the code file](https://github.com/ManjuDGRT/AI_2023_Final/blob/main/MobileNetV3_and_MobileNetV2_Implementation_Using_Python_and_TensorFlow.ipynb)
 
 
 ## Developer
@@ -84,7 +84,7 @@ The following libraries were used in this project:
 The project utilizes the following repository:
 - **GitHub Repository:** [deeplearning-models](https://github.com/rasbt/deeplearning-models)
   This repository was used for PyTorch-based implementation, containing utility functions, data loading, and model training scripts.
-[Click here to view the code file](https://github.com/ManjuDGRT/AI_Final/blob/main/Training_MobileNetV3_Adam_optimiser.ipynb)
+[Click here to view the code file](https://github.com/ManjuDGRT/AI_2023_Final/blob/main/Training_MobileNetV3_Adam_optimiser%20(1).ipynb)
 ### Steps Involved in Training MobileNetV3 with Adam Optimizer
 1. **Cell 1: Cloning GitHub Repo and Importing Libraries**  
    Cloning a GitHub repository and importing necessary libraries and modules for training MobileNetV3 using PyTorch.
@@ -119,7 +119,7 @@ A utility function `predict_image_label` is provided to predict labels for new i
 The project utilizes the following repository:
 - **GitHub Repository:** [deeplearning-models](https://github.com/rasbt/deeplearning-models)
   This repository was used for PyTorch-based implementation, containing utility functions, data loading, and model training scripts.
-[Click here to view the code file](https://github.com/ManjuDGRT/AI_Final/blob/main/Training_MobileNetV3_SGD_optimiser_ipynb.ipynb?short_path=bb414b6)
+[Click here to view the code file](https://github.com/ManjuDGRT/AI_2023_Final/blob/main/Training_MobileNetV3_SGD_optimiser_ipynb%20(2).ipynb)
 ### Steps Involved in Training MobileNetV3 with SGD Optimizer
 1. **Cell 1: Cloning GitHub Repo and Importing Libraries**  
    Cloning a GitHub repository and importing necessary libraries and modules for training MobileNetV3 using PyTorch.
